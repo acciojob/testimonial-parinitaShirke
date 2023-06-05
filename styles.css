@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+body{
+	backgroound-color : #f5f5f5
+}
+
+.container-1, .container-2{
+	display:flex;
+	justify-content:space-between;
+	background-color: white;
+    border: 1px solid #e7d3d3;
+}
+
+.author{
+	text-align:right;
+	font-style:italic;
+}
